@@ -1,4 +1,4 @@
-roses are green
-violets are yellow
+roses are grey
+violets are grey
 if you open photoshop
-and mess with the hue
+and remove the saturation
